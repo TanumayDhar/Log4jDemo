@@ -1,0 +1,6 @@
+15:45:45.410 [main] FATAL alpha.Log4jDemo1 - j
+15:45:45.415 [main] ERROR alpha.Log4jDemo1 - k
+15:46:32.456 [main] DEBUG beta.Log4jDemo2 - m
+15:46:32.456 [main] FATAL beta.Log4jDemo2 - n
+15:46:32.456 [main] ERROR beta.Log4jDemo2 - o
+15:46:32.456 [main] INFO  beta.Log4jDemo2 - p
